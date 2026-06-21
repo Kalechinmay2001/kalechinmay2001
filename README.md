@@ -197,7 +197,7 @@ class ChinmayKale:
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kalechinmay2001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kalechinmay2001&theme=tokyonight&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 > 💡 **Unlock more:** Make commits → Create PRs → Open issues → Get followers. Trophies auto-update!
 
